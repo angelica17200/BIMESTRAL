@@ -1,6 +1,6 @@
 ### FUNCIONES TRIGONOMETRICAS
 # Esta app nos permite escoger cualquier funcion matematica deseada,
-# para así poder dar el resultado deseado mediante graficas. 
+# para así dar el resultado deseado mediante graficas. 
 
 import tkinter as t
 from tkinter import messagebox
