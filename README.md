@@ -33,7 +33,8 @@ Función cúbica Función cúbica es una función polinómica de grado 3. Su exp
 
 ![exponencial](funcion_expo.png "exponecial ")
 
-# FUNCION TRIGONOMETRICA 
+# FUNCION TRIGONOMETRICA
+
 
 - son las funciones cuyo argumento, o variable independiente, es un ángulo. Estas usualmente incluyen términos que describen la medición de ángulos y triángulos, tal como seno, coseno, tangente, cotangente, secante y cosecante.
 
